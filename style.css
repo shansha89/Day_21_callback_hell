@@ -1,0 +1,15 @@
+.info {
+  padding: 20px;
+  font-size: 30px;
+  background-color: rgb(241, 46, 82);
+  color: white;
+  text-shadow: 5px 5px rgb(204, 71, 71);
+}
+
+.timer {
+  margin-top: 50px;
+  font-size: 50px;
+  padding: 30px;
+  color: rgb(7, 208, 7);
+  text-shadow: 2px 2px rgb(21, 198, 21);
+}
